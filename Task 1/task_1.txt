@@ -1,0 +1,4 @@
+Add files via upload
+Hare i completed my task 1 with ER-diagram with entities and relationships  
+I also upload that both photo ( with ER-diagram with entities and relationships  )
+I cerate word file with  all entities and relationships and Interview Questions and also prectical sql file sql cerate table query
