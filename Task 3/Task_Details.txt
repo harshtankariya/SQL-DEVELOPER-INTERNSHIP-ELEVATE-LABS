@@ -1,0 +1,1 @@
+Hare today task 3 is completed using SELECT statement and Apply WHERE, AND, OR, LIKE, BETWEEN and Sort with ORDER BY and i also completed Interview Questions that all i define in word file where i give sort summary all tack and i attach sql query with practical that i performed 
