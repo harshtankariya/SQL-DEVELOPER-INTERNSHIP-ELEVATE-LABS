@@ -1,0 +1,1 @@
+Hare today task 5 is completed using JOIN statement and Apply Relationship in table and i also completed Interview Questions that all i define in word file where i give sort summary all tack and i attach sql query with practical that i performed 
