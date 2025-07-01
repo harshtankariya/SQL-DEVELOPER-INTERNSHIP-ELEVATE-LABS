@@ -1,0 +1,1 @@
+Hare today task 6 is completed using Subqueries and Nested Queries in table and i also completed Interview Questions that all i define in word file where i give sort summary all tack and i attach sql query with practical that i performed 
